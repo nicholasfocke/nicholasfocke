@@ -3,8 +3,8 @@
 Software Developer focused on Java backend and scalable systems
 </p>
 <p align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=500&lines=Java+Backend+Developer+in+progress;Next.js+%26+TypeScript+Developer;Building+real-world+systems;Open+to+international+opportunities+🌍" />
+<img src="https://readme-typing-svg.demolab.com?lines=Java+Backend+Developer+(in+progress);Next.js+Developer+and+TypeScript+Dev;Open+to+international+opportunities" />
+</p>
 </a>
 </p>
 ---
@@ -31,12 +31,6 @@ Software Developer focused on Java backend and scalable systems
   Real-world scheduling system handling 30–40 clients/day  
 - ⚙️ **Java Backend (in progress)**  
   REST API with Spring Boot and clean architecture  
----
-## 📊 GitHub Stats
-<p align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=nicholasfocke&show_icons=true&theme=tokyonight"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasfocke&layout=compact&theme=tokyonight"/>
-</p>
 ---
 ## 🤝 Connect with me
 <p>
