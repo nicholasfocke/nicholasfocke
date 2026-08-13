@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About me
 
-- 🎓 Information Systems student — CESMAC, Maceió (4th semester)
+- 🎓 Information Systems student — CESMAC, Maceió (5th semester)
 - ⚙️ Building full stack systems with Java 21, Spring Boot 3, Angular 19 and PostgreSQL
 - 🔐 Implementing authentication with JWT and Spring Security
 - 🐳 Containerizing applications with Docker and Docker Compose
