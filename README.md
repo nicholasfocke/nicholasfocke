@@ -44,7 +44,7 @@
 - 🥊 **Machine Learning Intern — CombatIQ** *(Jul 2026 – Present)*
   Working on machine learning systems applied to combat sports data.
 
-- 🚀 **Full-Stack Developer — Kontaki** *(2025)*
+- 🚀 **Full-Stack Developer — Kontaki** *(Sep 2025 - Present)*
   Designed and built a SaaS product currently live in production, using Next.js, TypeScript and a modern backend stack.
 
 - 🌐 **Web & Software Development Intern — YAC Web Works** *(Mar 2024 – Dec 2024)*
