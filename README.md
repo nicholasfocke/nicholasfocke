@@ -16,6 +16,7 @@
 - ⚙️ Building backend and full stack systems with Java 21, Spring Boot 3, PostgreSQL, Angular and Next.js
 - 🔐 Implementing authentication and authorization with JWT and Spring Security
 - 🐳 Containerizing applications with Docker and Docker Compose
+- 🐍 Practicing data structures and algorithms in Python (NeetCode 150)
 - 🌍 German passport holder — open to remote and international opportunities (Europe / Germany)
 - 📈 Consistently shipping real-world projects and deepening my Java ecosystem knowledge
 
@@ -25,6 +26,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
